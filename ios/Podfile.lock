@@ -1,0 +1,33 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_to_airplay (0.0.1):
+    - Flutter
+    - Mux-Stats-AVPlayer
+  - Mux-Stats-AVPlayer (3.3.0):
+    - Mux-Stats-Core (~> 4.5)
+  - Mux-Stats-Core (4.5.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_to_airplay (from `.symlinks/plugins/flutter_to_airplay/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Mux-Stats-AVPlayer
+    - Mux-Stats-Core
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_to_airplay:
+    :path: ".symlinks/plugins/flutter_to_airplay/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_to_airplay: 3194fe6e4ca6ba1d9529c3c4194c32b9610d990f
+  Mux-Stats-AVPlayer: 9bffe60bf3fae24dfd19ccaed0f8a62f71bb253f
+  Mux-Stats-Core: 333983d927bb2f0b5e0afdcd295bfc0d0562584d
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.11.3
